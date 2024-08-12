@@ -1,4 +1,5 @@
 EDA Text Classification Reproducibility and Contribution
+
 This repository contains the code for reproducing the results of the paper "Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks" by Jason Wei and Kai Zou, as well as my contribution using the XGBoost model for text classification.
 
 Overview
